@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "72526638368",
+    "firebase_url": "https://dislocal2-65460-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dislocal2-65460",
+    "storage_bucket": "dislocal2-65460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72526638368:android:2bb4b65d61403a19897b45",
+        "android_client_info": {
+          "package_name": "com.example.dislocal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XDZE8UBrU6I0Set2MDA2iNjsZzyEkls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
